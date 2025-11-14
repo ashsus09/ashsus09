@@ -15,10 +15,6 @@ Always learning, always creating. ✨**
 **Cloud:** AWS (Lambda, S3, EC2)  
 **Other:** Git, SQL, HTML/CSS
 
----
-
-🌱 *Exploring RAG, vector databases, and scalable ML workflows*  
-📫 *Connect with me on GitHub or LinkedIn!*
 
 </div>  
   
